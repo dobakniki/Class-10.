@@ -1,7 +1,7 @@
 
 # Did you know? #
 
-### the Philadelphia Eagles used pickle juice to beat the Cowboys.###
+### the Philadelphia Eagles used pickle juice to beat the Cowboys. ###
 
 During a hot September 3, 2000, game in Irving, Texas, when temperatures on the field of Texas Stadium reached **109 degrees**, Philadelphia players [chugged]() pickle juice and credited the briny solution for their 41-14 win. The Eagles outgained Dallas 425-167, and defensive end Hugh Douglass said, *“I may start drinking pickle juice when I’m home chilling.”*
 
