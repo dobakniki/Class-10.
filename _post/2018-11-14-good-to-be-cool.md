@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Cool to be cool"
 ---
 
